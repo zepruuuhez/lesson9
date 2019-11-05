@@ -1,0 +1,8 @@
+d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\bin\Debug\lesson9.exe.config
+d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\bin\Debug\lesson9.exe
+d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\bin\Debug\lesson9.pdb
+d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.csprojAssemblyReference.cache
+d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.Properties.Resources.resources
+d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.csproj.GenerateResource.cache
+d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.exe
+d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.pdb
