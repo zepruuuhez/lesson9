@@ -16,5 +16,34 @@ namespace lesson9
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            richTextBox1.Text = "";
+            Random R = new Random();
+            int[,] mas = new int[5, 3];
+            int max = 0, flag = 0,summa=0;
+            for(int i=0;i<5;i++)
+            {
+                summa = 0;
+                for(int j = 0;j<3;j++)
+                {
+                    mas[i, j] = R.Next(10, 100);
+                    summa += mas[i, j];
+                    richTextBox1.Text += mas[i, j] + " ";
+                }
+                if(summa>max)
+                {
+                    max = summa;
+                    flag = i;
+                }
+                richTextBox1.Text += "\n";            
+            }
+            richTextBox1.Text += "\nМаксимальная сумма в " + (flag+1) + "строке" + "\n";
+            for(int j=0;j<3;j++)
+            {
+                richTextBox1.Text += mas[flag, j]+" ";
+            }
+        }
     }
 }

@@ -6,3 +6,4 @@ d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.Prope
 d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.csproj.GenerateResource.cache
 d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.exe
 d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.pdb
+d:\Рабочий стол\IluHa\lesson9\lesson9\lesson9\obj\Debug\lesson9.Form1.resources
